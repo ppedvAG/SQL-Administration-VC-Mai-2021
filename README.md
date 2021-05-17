@@ -1,4 +1,6 @@
-# SQL Administration VC Mai 2021
+# SQL Admin Powerwoche Mai 2021 VC
+ 
+ # SQL Administration VC Mai 2021
  
 ## SQL und Virtualisierung
 
@@ -8,3 +10,4 @@
 
 ## SystemDBs und Wartungsplan
 
+## Agent Jobs, Emailsystem, Warnungen
